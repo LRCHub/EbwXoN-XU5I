@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ベスト･オブ･マイ･ラヴ",
+  "base_artist": "The Emotions",
+  "createdAt": "2026-02-11T12:58:04.097772Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Best of My Love",
+      "artist": "The Emotions",
+      "has_synced": false,
+      "path": "select/pl_01_Best_of_My_Love_The_Emotions.txt"
+    }
+  ]
+}
